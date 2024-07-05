@@ -1,0 +1,145 @@
+body {background-image: url(img.jpeg);
+    
+}
+    .webpage-button{
+      background-color: rgba(255, 162, 0, 0.708);
+      color: gray;
+      border: none;
+      border-radius: 18px;
+      height: 800px;
+      width: 800px;
+      border-radius: round;
+      cursor: pointer;
+      margin-right: 1000px;
+      margin-left: 20px;
+      margin-bottom: 25px;
+      font-size: 90px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      transition: opacity 0.5;
+      vertical-align: top;
+      font-family: 'Courier New', Courier, monospace;
+
+  }
+  .webpage-button:hover {
+      opacity: 0.8;
+  }      
+  .WEBPAGE:active {
+      opacity: 0.5;
+  }
+  .dob-button{
+    background-color: rgba(255, 162, 0, 0.708);
+      color: gray;
+      border: none;
+      border-radius: 18px;
+      height: 750px;
+      width: 750px;
+      border-radius: round;
+      cursor: pointer;
+      margin-right: 1000px;
+      margin-left: 20px;
+      margin-bottom: 25px;
+      font-size: 40px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      transition: opacity 0.5;
+      vertical-align: top;
+      font-family: 'Courier New', Courier, monospace;
+          
+   }
+   .dob-button:hover{
+      background-color: yellow;
+      color: white;
+   }
+   .dob-button:active {
+      opacity: .7;
+   }
+      .aboutme-button 
+      {
+      background-color: rgba(255, 162, 0, 0.708);
+      color: gray;
+      border: none;
+      height: 200px;
+      width: 500px;
+      border-radius: 18px;
+      font-weight: bold;
+      font-size: 35px;
+      cursor: pointer;
+      margin-left: 8px;
+      margin-right: 1000px ;
+      margin-bottom: 50px ;
+      transition: box-shadow 0.15s;
+      vertical-align: top;
+      font-family:'Courier New', Courier, monospace; ;
+    
+  }
+
+  .aboutme-button:hover {
+      box-shadow:  5px 5px 10px rgba(0, 0, 0.15);
+
+  }
+      .personal-button{
+        background-color: rgba(255, 162, 0, 0.708);
+      color: gray;
+      border: none;
+      height: 200px;
+      width: 500px;
+      border-radius: 18px;
+      font-weight: bold;
+      font-size: 35px;
+      cursor: pointer;
+      margin-left: 8px;
+      margin-right: 1000px ;
+      margin-bottom: 50px ;
+      transition: box-shadow 0.15s;
+      vertical-align: top;
+      font-family: 'Courier New', Courier, monospace;
+      
+      
+  }
+  .pinfo-button{
+    background-color: rgba(255, 162, 0, 0.708);
+      color: gray;
+      border: none;
+      border-radius: 18px;
+      height: 750px;
+      width: 750px;
+      border-radius: round;
+      cursor: pointer;
+      margin-right: 1000px;
+      margin-left: 20px;
+      margin-bottom: 25px;
+      font-size: 30px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      transition: opacity 0.5;
+      vertical-align: top;
+      font-family:'Courier New', Courier, monospace;
+  }
+    .contact-button{
+      cursor: pointer;
+      margin-right: 250x;
+      font-size:35px;
+      font-family: 'Courier New', Courier, monospace;
+    }
+    
+      .email-button{
+        font-size: 30px;
+        font-family: 'Courier New', Courier, monospace;
+        cursor: grab;
+
+
+      }
+      
+        .phone-button{
+        font-size: 30px;
+        font-family: 'Courier New', Courier, monospace;
+        cursor: grab;
+
+        }
